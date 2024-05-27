@@ -1,0 +1,121 @@
+body {
+	background-image: url("../images/etoile.jpeg") ;
+	color: white;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+}
+
+footer {
+	color: #FF0000;
+	text-align: center;
+	opacity: 0.6;
+	background-color: white;
+	font-size: 18px;
+}
+
+p {
+	font-size: 18px;
+}
+
+p2 {
+	text-align: left;
+	font-size: 19px;
+}
+
+.p3 {
+	font-size: 22px;
+}
+
+.div3 {
+	background-color: white;
+	text-align: left;
+	font-size: 20px;
+	padding: 15px;
+	opacity: 0.8;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	padding: 8px;
+	border-right: 1px solid black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+	background-color: #E2E2E2;
+	transition: witdh 2s;
+	animation-duration: 1s;
+	font-size: 18px;
+	padding: 15px;
+}
+
+a.active {
+	background-color: #A2A2A2;
+}
+
+table {
+	border: 3px solid white;
+	border-spacing: 0px;
+	text-align: center;
+}
+
+th, td {
+	border: 1px solid white;
+}
+
+.cellule {
+	border: 1px solid white;
+	background-color: #C1C1C1;
+}
+
+.cellule2 {
+	border: 1px solid white;
+	background-color: #FF0000;
+}
+
+.cellule3 {
+	border: 1px solid white;
+	background-color: #00A6FF;
+}
+
+.cellule4 {
+	border: 1px solid white;
+	background-color: #12E800;
+}
+
+img {
+	widht: 300px;
+	height: 350px;
+}
+
+img2 {
+	widht: 100px;
+	height: 100px;
+}
+
+.nav {
+	background-color: white;
+	opacity: 0.8;
+	font-size: 20px;
+	text-align: right;
+	padding: 15px;
+}
+
+.nav2 {
+	background-color: white;
+	opacity: 0.8;
+	font-size: 20px;
+	text-align: right;
+	padding: 18px;
+}
+
+ol {
+	color: lightgreen;
+	font-size: 20px;
+}
